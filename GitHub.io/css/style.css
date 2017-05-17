@@ -1,0 +1,13 @@
+#div-header 
+{
+    background-color:aqua;
+    text-align:center;
+    height:20%;
+}       
+        
+#h1
+{
+    width="150px"
+    height="150px" 
+    float="left"
+}
